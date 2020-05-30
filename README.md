@@ -1,4 +1,4 @@
-# mysupermarket
+# my_supermarket
 
 ## Project setup
 ```
