@@ -1,4 +1,4 @@
-# mall01
+# mysupermarket
 
 ## Project setup
 ```
