@@ -1,7 +1,7 @@
 # my_supermarket
 #项目的具体介绍以及实现效果图可以参看下方博客的链接
 ```
-<https://blog.csdn.net/weixin_43312083/article/details/106447464>
+https://blog.csdn.net/weixin_43312083/article/details/106447464
 ```
 ## Project setup
 ```
